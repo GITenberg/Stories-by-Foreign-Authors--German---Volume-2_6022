@@ -1,0 +1,55 @@
+_repo: Stories-by-Foreign-Authors--German---Volume-2_6022
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Chamisso, Adelbert von
+    aliases:
+    - Chamisso, Adalbert von
+    - Boncourt, Louis Charles Adélaide de Chamisso de
+    - Boncourt, Louis Charles Adelaide de Chamisso de
+    - Von Chamisso, Adelbert
+    birthdate: 1781
+    deathdate: 1838
+    gutenberg_agent_id: '1779'
+    url: http://www.gutenberg.org/2009/agents/1779
+    wikipedia: http://en.wikipedia.org/wiki/Adelbert_von_Chamisso
+  - agent_name: Auerbach, Berthold
+    alias: Baruch, Moses
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '8194'
+    url: http://www.gutenberg.org/2009/agents/8194
+    wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
+  - agent_name: Hauff, Wilhelm
+    birthdate: 1802
+    deathdate: 1827
+    gutenberg_agent_id: '2125'
+    url: http://www.gutenberg.org/2009/agents/2125
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Hauff
+    - http://en.wikipedia.org/wiki/Wilhelm_Hauff
+  - agent_name: Kompert, Leopold
+    birthdate: 1822
+    deathdate: 1886
+    gutenberg_agent_id: '25479'
+    url: http://www.gutenberg.org/2009/agents/25479
+    wikipedia: http://en.wikipedia.org/wiki/Leopold_Kompert
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: "Christian Gellert's Last Christmas, by Berthold Auerbach\r\nA Ghetto\
+  \ Violet, by Leopold Kompert\r\nThe Severed Hand, by Wilhelm Hauff\r\nPeter Schlemihl,\
+  \ by Adelbert Von Chamisso."
+title: 'Stories by Foreign Authors: German — Volume 2'
+url: http://www.gutenberg.org/ebooks/6022
