@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:cc="http://web.resource.org/cc/"
+>
+  <pgterms:ebook rdf:about="ebooks/6022">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/6022.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N64d1eba8b5dc4a91b43d761babf327f5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:26:24.174818</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284941</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/6022.html.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:26:24.507818</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfcf9d6d52810425ea9fd551e80be63a8">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303288</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>Stories by Foreign Authors: German — Volume 2</dcterms:title>
+    <marcrel:ctb>
+      <pgterms:agent rdf:about="2009/agents/1779">
+        <pgterms:alias>Von Chamisso, Adelbert</pgterms:alias>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Adelbert_von_Chamisso"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1838</pgterms:deathdate>
+        <pgterms:alias>Boncourt, Louis Charles Adélaide de Chamisso de</pgterms:alias>
+        <pgterms:name>Chamisso, Adelbert von</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1781</pgterms:birthdate>
+        <pgterms:alias>Chamisso, Adalbert von</pgterms:alias>
+        <pgterms:alias>Boncourt, Louis Charles Adelaide de Chamisso de</pgterms:alias>
+      </pgterms:agent>
+    </marcrel:ctb>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nfe6da821a59140729df12a82d7ae3b1e">
+        <rdf:value>Short stories, German -- Translations into English</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/6022.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">499212</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N054965b93ce94724acdeb9b45fdbe45e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:26:25.793775</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-07-01</dcterms:issued>
+    <marcrel:ctb>
+      <pgterms:agent rdf:about="2009/agents/8194">
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Berthold_Auerbach"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1882</pgterms:deathdate>
+        <pgterms:alias>Baruch, Moses</pgterms:alias>
+        <pgterms:name>Auerbach, Berthold</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1812</pgterms:birthdate>
+      </pgterms:agent>
+    </marcrel:ctb>
+    <marcrel:ctb>
+      <pgterms:agent rdf:about="2009/agents/2125">
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1827</pgterms:deathdate>
+        <pgterms:name>Hauff, Wilhelm</pgterms:name>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Wilhelm_Hauff"/>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1802</pgterms:birthdate>
+        <pgterms:webpage rdf:resource="http://de.wikipedia.org/wiki/Wilhelm_Hauff"/>
+      </pgterms:agent>
+    </marcrel:ctb>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/6022.kindle.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">499204</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1fd68d6c988147a2979f621d24d1d00d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:26:26.848772</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <marcrel:ctb>
+      <pgterms:agent rdf:about="2009/agents/25479">
+        <pgterms:name>Kompert, Leopold</pgterms:name>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Leopold_Kompert"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1886</pgterms:deathdate>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1822</pgterms:birthdate>
+      </pgterms:agent>
+    </marcrel:ctb>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nb45ffbe68581443e992269f8655e0368">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</pgterms:downloads>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/6022.html.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303288</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:26:24.446799</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N69cd695fead44a19b274c3695e38f2f4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/6022/6022.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284969</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-04-20T20:01:28</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nacfcb7bff4a44bd8a06c0b84126472b4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="N509f246c4f25450389425c5f680242bc">
+        <rdf:value>Germany</rdf:value>
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/6022/6022.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd5b0ed9ef1ab4626a94470d19d0d79ee">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110582</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-04-20T20:03:20</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf7cd878c1b6c4a29ac2230534b3680c6">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/6022.epub.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:26:24.653794</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Naa04d9d4a0a7442ab75aceb7fce539b3">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122908</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/6022.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc3382c6bbea148e3acd053e66b3e19f8">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:26:24.746802</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122908</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nc85934676a1242b4b226ecc636cfe389">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PT</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/6022.rdf">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13910</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf952aa80102a49e59b86705263198bcf">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/6022"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:04:31.491735</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Na06414acccc34fec88069cf425ece2a8">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:tableOfContents>Christian Gellert's Last Christmas, by Berthold Auerbach&#13;
+A Ghetto Violet, by Leopold Kompert&#13;
+The Severed Hand, by Wilhelm Hauff&#13;
+Peter Schlemihl, by Adelbert Von Chamisso.</dcterms:tableOfContents>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Berthold_Auerbach">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Leopold_Kompert">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Adelbert_von_Chamisso">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Wilhelm_Hauff">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.wikipedia.org/wiki/Wilhelm_Hauff">
+    <dcterms:description>de.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
